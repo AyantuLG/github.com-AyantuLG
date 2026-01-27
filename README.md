@@ -21,4 +21,4 @@ Crafting responsive web interfaces with **HTML**, **CSS**, **JavaScript**, and *
 - Modern animations and transitions
 
 ---
- Addis Ababa, Ethiopia 🇪🇹 | Learning daily 🚀
+ Learning daily 🚀
